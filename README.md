@@ -5,7 +5,7 @@ Applications and practice in neural networks(English) Project Proposal 1
 ### Building the Movie review classifier
 # 2. Project Introduction
 ## 2-1. Objective
-: Developing the movie review classifier to 
+: Developing the movie review classifier to analysis the 
 ## 2-2. Motivation
 # 3. Dataset Description
 ## 3-1. What is IMDB Dataset?
