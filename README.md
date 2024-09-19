@@ -14,5 +14,8 @@ Applications and practice in neural networks(English) Project Proposal 1
 
 ## 3-2. Train dataset
 ### 3-2-1. Train dataset
+[TrainDataset](https://drive.google.com/file/d/1yh9VcSK6z2H-Lho-dFF-KE0VdwOp8lF8/view?usp=drive_link)
 ### 3-2-2. Validation dataset
+[ValidationDataset](https://drive.google.com/file/d/1OMiZX-LumH9Yqo81jlYIH_Fgx1GOuN72/view?usp=drive_link)
 ## 3-3. Test dataset
+[TestDataset](https://drive.google.com/file/d/1OMiZX-LumH9Yqo81jlYIH_Fgx1GOuN72/view?usp=drive_link)
