@@ -1,11 +1,8 @@
-# IMDB_Dataset_Movie_Reviews
-Applications and practice in neural networks(English) Project Proposal 1
-
 # 1. Project title
-### Building the Movie review classifier
+### Building the Movie review classifier (Positive or Negative review)
 # 2. Project Introduction
 ## 2-1. Objective
-: Developing the Moview review classifier. By using this model, we could build the document classifier.
+: Developing the Movie review classifier. We could build the document classifier by using this model. 
 ## 2-2. Motivation
 : As an LLM researcher, I want to choose an NLP task. So, I picked the Movie Review Classifier task, which is a famous NLP task. I want to build two movie review classifiers, one for English and another for the Korean version. Then, I'll analyze the performances and differences between the English and Korean movie review classifiers.
 # 3. IMDB Dataset Description (For English Movie Review)
