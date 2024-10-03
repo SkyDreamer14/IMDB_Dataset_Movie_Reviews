@@ -7,7 +7,8 @@
 : As a Large Language Model researcher, I want to choose an NLP task. So, I picked the Movie Review Classifier task, which is a famous NLP task. I want to compare the performances of ML and DL in NLP fields by making two models.
 # 3. IMDB Dataset Description (For English Movie Review)
 ## 3-1. What is IMDB Dataset?
-: This is a dataset for binary sentiment classification containing substantially more data than previous benchmark datasets. We provide a set of 25,000 highly polar movie reviews for training, and 25,000 for testing. There is additional unlabeled data for use as well. Raw text and already processed bag of words formats are provided. See the README file contained in the release for more details.  
+: This is a dataset for binary sentiment classification containing substantially more data than previous benchmark datasets. They provide a set of 25,000 highly polar movie reviews for training, and 25,000 for testing. 
+
 [**LargeMovieReveiwDataset**](http://ai.stanford.edu/~amaas/data/sentiment/)
 ## 3-2. Train dataset
 ### 3-2-1. Train dataset
